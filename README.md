@@ -49,4 +49,4 @@ Here's a brief overview of the repository’s structure:
 |                                      | **rnn_np_v2_NumPy implementation.ipynb**                                    | NumPy-based RNN implementation.                                                                 |
 |                                      | **rnn_with_keras.ipynb**                                                     | RNN implementation using Keras.                                                                 |
 
-Thank you. Let's learn together!
+Thank You. Let's learn together!
